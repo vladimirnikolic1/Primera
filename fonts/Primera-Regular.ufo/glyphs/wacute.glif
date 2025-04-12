@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute" format="2">
+  <advance width="611"/>
+  <unicode hex="1E83"/>
+  <outline>
+    <contour>
+      <point x="266" y="126" type="line"/>
+      <point x="144" y="126" type="line"/>
+      <point x="233" y="686" type="line"/>
+      <point x="120" y="686" type="line"/>
+      <point x="13" y="10" type="line"/>
+      <point x="403" y="10" type="line"/>
+      <point x="619" y="132" type="line"/>
+      <point x="707" y="686" type="line"/>
+      <point x="595" y="686" type="line"/>
+      <point x="518" y="200" type="line"/>
+      <point x="393" y="126" type="line"/>
+      <point x="379" y="126" type="line"/>
+      <point x="468" y="686" type="line"/>
+      <point x="355" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="494" y="833" type="line"/>
+      <point x="379" y="833" type="line"/>
+      <point x="306" y="726" type="line"/>
+      <point x="421" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>acb5a8b27269ae262020c07ac96fa75400fcb7e56b5ba1be300e7442ff7aac6c16e278b9abd40f93587dd8361f59e4108af1eacea86931547b63cd0359b35fbb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 10 116</string>
+          <string>hstem 686 -20</string>
+          <string>hstem 726 107</string>
+          <string>vstem 13 694</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

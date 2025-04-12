@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="2">
+  <advance width="611"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <contour>
+      <point x="266" y="126" type="line"/>
+      <point x="144" y="126" type="line"/>
+      <point x="233" y="686" type="line"/>
+      <point x="120" y="686" type="line"/>
+      <point x="13" y="10" type="line"/>
+      <point x="403" y="10" type="line"/>
+      <point x="619" y="132" type="line"/>
+      <point x="707" y="686" type="line"/>
+      <point x="595" y="686" type="line"/>
+      <point x="518" y="200" type="line"/>
+      <point x="393" y="126" type="line"/>
+      <point x="379" y="126" type="line"/>
+      <point x="468" y="686" type="line"/>
+      <point x="355" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="727" type="line"/>
+      <point x="383" y="727" type="line"/>
+      <point x="400" y="835" type="line"/>
+      <point x="287" y="835" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="727" type="line"/>
+      <point x="566" y="727" type="line"/>
+      <point x="583" y="835" type="line"/>
+      <point x="470" y="835" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0e01600f58c3d3881554f9169dadd68500058c1c00b0f5123cd92f23ee66bce78abc01af68075623e8a28906f6dd313a65aae99569e9ea790b6e78ac909a2130</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 10 116</string>
+          <string>hstem 686 -20</string>
+          <string>hstem 727 108</string>
+          <string>vstem 13 694</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
