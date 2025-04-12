@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="2">
+  <advance width="221"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="176" y="623" type="line"/>
+      <point x="201" y="623" type="line"/>
+      <point x="244" y="592" type="line"/>
+      <point x="234" y="529" type="line"/>
+      <point x="160" y="529" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="387" type="line"/>
+      <point x="296" y="622" type="line"/>
+      <point x="221" y="673" type="line"/>
+      <point x="136" y="673" type="line"/>
+      <point x="90" y="387" type="line"/>
+      <point x="138" y="387" type="line"/>
+      <point x="153" y="481" type="line"/>
+      <point x="226" y="481" type="line"/>
+      <point x="211" y="387" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w221m176,623l201,623l244,592l234,529l160,529m259,387l296,622l221,673l136,673l90,387l138,387l153,481l226,481l211,387</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 481 48</string>
+          <string>hstem 623 50</string>
+          <string>vstem 90 206</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

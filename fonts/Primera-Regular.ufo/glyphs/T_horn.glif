@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="431"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="159" y="240" type="line"/>
+      <point x="198" y="481" type="line"/>
+      <point x="372" y="481" type="line"/>
+      <point x="333" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="793" type="line"/>
+      <point x="136" y="793" type="line"/>
+      <point x="-4" y="-79" type="line"/>
+      <point x="105" y="-79" type="line"/>
+      <point x="138" y="117" type="line"/>
+      <point x="426" y="117" type="line"/>
+      <point x="503" y="598" type="line"/>
+      <point x="213" y="598" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w431m159,240l198,481l372,481l333,240m245,793l136,793l-4,-79l105,-79l138,117l426,117l503,598l213,598</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 117 123</string>
+          <string>hstem 481 117</string>
+          <string>vstem -4 507</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

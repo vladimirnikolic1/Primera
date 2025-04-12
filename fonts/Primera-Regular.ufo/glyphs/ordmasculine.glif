@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+  <advance width="229"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="127" y="673" type="line"/>
+      <point x="81" y="387" type="line"/>
+      <point x="250" y="387" type="line"/>
+      <point x="295" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="439" type="line"/>
+      <point x="137" y="439" type="line"/>
+      <point x="166" y="623" type="line"/>
+      <point x="240" y="623" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w229m127,673l81,387l250,387l295,673m211,439l137,439l166,623l240,623</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 387 52</string>
+          <string>hstem 623 50</string>
+          <string>vstem 81 214</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

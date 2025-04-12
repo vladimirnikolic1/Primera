@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="2">
+  <advance width="423"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <contour>
+      <point x="319" y="133" type="line"/>
+      <point x="145" y="133" type="line"/>
+      <point x="232" y="686" type="line"/>
+      <point x="120" y="686" type="line"/>
+      <point x="13" y="10" type="line"/>
+      <point x="412" y="10" type="line"/>
+      <point x="519" y="686" type="line"/>
+      <point x="406" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="727" type="line"/>
+      <point x="282" y="727" type="line"/>
+      <point x="299" y="835" type="line"/>
+      <point x="186" y="835" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="727" type="line"/>
+      <point x="465" y="727" type="line"/>
+      <point x="482" y="835" type="line"/>
+      <point x="369" y="835" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>192072caba8b94b9a70ef617fd3481b1a23170cb3d6ff37a4eb2051d6d0e0c62c92906c0a49f5c5345328ae4afb1ac54d2729304d3fd6bbe39531133f75302f4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 10 123</string>
+          <string>hstem 686 -20</string>
+          <string>hstem 727 108</string>
+          <string>vstem 13 506</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

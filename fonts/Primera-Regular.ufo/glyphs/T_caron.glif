@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron" format="2">
+  <advance width="377"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="102" y="569" type="line"/>
+      <point x="224" y="569" type="line"/>
+      <point x="135" y="10" type="line"/>
+      <point x="248" y="10" type="line"/>
+      <point x="337" y="569" type="line"/>
+      <point x="455" y="569" type="line"/>
+      <point x="473" y="686" type="line"/>
+      <point x="120" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="836" type="line"/>
+      <point x="333" y="836" type="line"/>
+      <point x="292" y="774" type="line"/>
+      <point x="250" y="834" type="line"/>
+      <point x="140" y="834" type="line"/>
+      <point x="215" y="729" type="line"/>
+      <point x="375" y="729" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w377m102,569l224,569l135,10l248,10l337,569l455,569l473,686l120,686m448,836l333,836l292,774l250,834l140,834l215,729l375,729</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 569 117</string>
+          <string>hstem 729 107</string>
+          <string>vstem 102 371</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
