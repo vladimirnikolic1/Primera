@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+  <advance width="137"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="37" y="164" type="line"/>
+      <point x="150" y="164" type="line"/>
+      <point x="233" y="686" type="line"/>
+      <point x="120" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="10" type="line"/>
+      <point x="143" y="121" type="line"/>
+      <point x="30" y="121" type="line"/>
+      <point x="13" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w137m37,164l150,164l233,686l120,686m126,10l143,121l30,121l13,10</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 10 111</string>
+          <string>hstem 686 -20</string>
+          <string>vstem 13 220</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

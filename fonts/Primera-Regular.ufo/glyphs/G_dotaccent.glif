@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="2">
+  <advance width="423"/>
+  <unicode hex="0120"/>
+  <outline>
+    <contour>
+      <point x="120" y="686" type="line"/>
+      <point x="13" y="10" type="line"/>
+      <point x="412" y="10" type="line"/>
+      <point x="485" y="472" type="line"/>
+      <point x="249" y="359" type="line"/>
+      <point x="229" y="227" type="line"/>
+      <point x="344" y="288" type="line"/>
+      <point x="320" y="133" type="line"/>
+      <point x="146" y="133" type="line"/>
+      <point x="215" y="569" type="line"/>
+      <point x="501" y="569" type="line"/>
+      <point x="519" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="727" type="line"/>
+      <point x="372" y="727" type="line"/>
+      <point x="394" y="859" type="line"/>
+      <point x="255" y="859" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>62cb1f6ba3bbe8e33ca7f8c5be96a07ef3ef2bf7fb6f72ea1f714a130130406a1fb0531a7b7f848eb5716088b967f7ca0e71213f8d192c12054b813e623630b9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 10 123</string>
+          <string>hstem 569 117</string>
+          <string>hstem 727 132</string>
+          <string>vstem 13 506</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

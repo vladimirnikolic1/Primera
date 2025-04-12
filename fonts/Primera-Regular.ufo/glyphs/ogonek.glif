@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="396"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="257" y="-169" type="line"/>
+      <point x="294" y="10" type="line"/>
+      <point x="190" y="10" type="line"/>
+      <point x="174" y="-80" type="line"/>
+      <point x="36" y="-80" type="line"/>
+      <point x="-2" y="-300" type="line"/>
+      <point x="273" y="-300" type="line"/>
+      <point x="290" y="-201" type="line"/>
+      <point x="114" y="-201" type="line"/>
+      <point x="117" y="-169" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w396m257,-169l294,10l190,10l174,-80l36,-80l-2,-300l273,-300l290,-201l114,-201l117,-169</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -300 99</string>
+          <string>hstem -169 89</string>
+          <string>vstem -2 296</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

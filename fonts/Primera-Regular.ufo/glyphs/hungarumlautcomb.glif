@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="2">
+  <advance width="686"/>
+  <outline>
+    <contour>
+      <point x="435" y="833" type="line"/>
+      <point x="320" y="833" type="line"/>
+      <point x="247" y="726" type="line"/>
+      <point x="362" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="604" y="833" type="line"/>
+      <point x="489" y="833" type="line"/>
+      <point x="416" y="726" type="line"/>
+      <point x="531" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w686m435,833l320,833l247,726l362,726m604,833l489,833l416,726l531,726</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 726 107</string>
+          <string>vstem 247 357</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

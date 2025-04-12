@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetleft" format="2">
+  <advance width="633"/>
+  <outline>
+    <contour>
+      <point x="406" y="341" type="line"/>
+      <point x="661" y="509" type="line"/>
+      <point x="684" y="649" type="line"/>
+      <point x="279" y="384" type="line"/>
+      <point x="265" y="298" type="line"/>
+      <point x="586" y="33" type="line"/>
+      <point x="608" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="341" type="line"/>
+      <point x="431" y="509" type="line"/>
+      <point x="454" y="649" type="line"/>
+      <point x="49" y="384" type="line"/>
+      <point x="35" y="298" type="line"/>
+      <point x="356" y="33" type="line"/>
+      <point x="378" y="174" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w633m406,341l661,509l684,649l279,384l265,298l586,33l608,174m176,341l431,509l454,649l49,384l35,298l356,33l378,174</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 33 616</string>
+          <string>vstem 35 649</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

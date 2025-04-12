@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+  <advance width="137"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <contour>
+      <point x="13" y="10" type="line"/>
+      <point x="126" y="10" type="line"/>
+      <point x="233" y="686" type="line"/>
+      <point x="120" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="833" type="line"/>
+      <point x="189" y="833" type="line"/>
+      <point x="116" y="726" type="line"/>
+      <point x="231" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w137m13,10l126,10l233,686l120,686m304,833l189,833l116,726l231,726</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 686 -20</string>
+          <string>hstem 726 107</string>
+          <string>vstem 13 291</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohungarumlaut" format="2">
+  <advance width="423"/>
+  <unicode hex="0151"/>
+  <outline>
+    <contour>
+      <point x="120" y="686" type="line"/>
+      <point x="13" y="10" type="line"/>
+      <point x="412" y="10" type="line"/>
+      <point x="519" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="133" type="line"/>
+      <point x="145" y="133" type="line"/>
+      <point x="214" y="569" type="line"/>
+      <point x="388" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="833" type="line"/>
+      <point x="237" y="833" type="line"/>
+      <point x="164" y="726" type="line"/>
+      <point x="279" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="521" y="833" type="line"/>
+      <point x="406" y="833" type="line"/>
+      <point x="333" y="726" type="line"/>
+      <point x="448" y="726" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d70d1d7a5bffc831b85a6b965801e7da6056f5ab96db7bfdaf57eae2a375a1a195fca450382b8b3c673324eec461183e228930c4e842996facddb2c7e8936f71</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 10 123</string>
+          <string>hstem 569 117</string>
+          <string>hstem 726 107</string>
+          <string>vstem 13 508</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
