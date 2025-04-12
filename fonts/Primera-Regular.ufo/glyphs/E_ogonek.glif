@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="2">
+  <advance width="411"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="326" y="10" type="line"/>
+      <point x="400" y="10" type="line"/>
+      <point x="420" y="133" type="line"/>
+      <point x="146" y="133" type="line"/>
+      <point x="169" y="280" type="line"/>
+      <point x="354" y="358" type="line"/>
+      <point x="374" y="484" type="line"/>
+      <point x="189" y="406" type="line"/>
+      <point x="215" y="569" type="line"/>
+      <point x="489" y="569" type="line"/>
+      <point x="507" y="686" type="line"/>
+      <point x="120" y="686" type="line"/>
+      <point x="13" y="10" type="line"/>
+      <point x="222" y="10" type="line"/>
+      <point x="206" y="-80" type="line"/>
+      <point x="68" y="-80" type="line"/>
+      <point x="30" y="-300" type="line"/>
+      <point x="305" y="-300" type="line"/>
+      <point x="322" y="-201" type="line"/>
+      <point x="146" y="-201" type="line"/>
+      <point x="149" y="-169" type="line"/>
+      <point x="289" y="-169" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7de3099cbcc7e717697017282c9152e1f838878da383da358d8fe1257ba3a7673fedddcc9d06a827dcb95ea680664881ec7a056ff53035029be3167c6b6d8c9a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -300 99</string>
+          <string>hstem -169 89</string>
+          <string>hstem 10 123</string>
+          <string>hstem 569 117</string>
+          <string>vstem 13 494</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacron" format="2">
+  <advance width="411"/>
+  <unicode hex="0113"/>
+  <outline>
+    <contour>
+      <point x="215" y="569" type="line"/>
+      <point x="489" y="569" type="line"/>
+      <point x="507" y="686" type="line"/>
+      <point x="120" y="686" type="line"/>
+      <point x="13" y="10" type="line"/>
+      <point x="400" y="10" type="line"/>
+      <point x="420" y="133" type="line"/>
+      <point x="146" y="133" type="line"/>
+      <point x="169" y="280" type="line"/>
+      <point x="354" y="358" type="line"/>
+      <point x="374" y="484" type="line"/>
+      <point x="189" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="841" type="line"/>
+      <point x="200" y="841" type="line"/>
+      <point x="182" y="727" type="line"/>
+      <point x="462" y="727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fc4aa7f12998b3c609c05be9378dd5fdf8fd3aa40d400cff34b0a1b9bf1449cdc61088570cfbb108f7d25f1a10ebef04b2c37be19888bbf69676de7f927920ed</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 10 123</string>
+          <string>hstem 569 117</string>
+          <string>hstem 727 114</string>
+          <string>vstem 13 494</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
